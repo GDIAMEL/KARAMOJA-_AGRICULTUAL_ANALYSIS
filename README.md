@@ -1,4 +1,4 @@
-# KARAMOJA-_AGRICULTUAL_ANALYSIS
+# KARAMOJA_AGRICULTURAL_ANALYSIS
 
 ![download (1)](https://github.com/user-attachments/assets/66e41a1f-92f3-4c22-b32d-15aeac77fbbd)
 
